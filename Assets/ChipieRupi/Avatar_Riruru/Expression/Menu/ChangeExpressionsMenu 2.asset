@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ChangeExpressionsMenu 2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Pacifier-Osyaburi
+    icon: {fileID: 2800000, guid: d703dbbc4bf39ca44a74d07de5654618, type: 3}
+    type: 102
+    parameter:
+      name: osyaburi
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Costume
+    icon: {fileID: 2800000, guid: b996ece943ad18b479a136f1b306876d, type: 3}
+    type: 102
+    parameter:
+      name: Costume_Change
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: UnderWear
+    icon: {fileID: 2800000, guid: 1c1de8a3552b9984e962aac48d16e5a4, type: 3}
+    type: 102
+    parameter:
+      name: Costume_Change
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Breast Size
+    icon: {fileID: 2800000, guid: 6fdce39bc0c5f704b86bb07a65821c53, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Breast
+    labels: []
+  - name: Cool Face
+    icon: {fileID: 2800000, guid: ebc563aaddf6118448c51e6f410a6bb3, type: 3}
+    type: 102
+    parameter:
+      name: Face_Change
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair
+    icon: {fileID: 2800000, guid: a1d62641930abd74f959ce01c4283baf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 273038b4d17274a47a70ef338128577c, type: 2}
+    subParameters: []
+    labels: []

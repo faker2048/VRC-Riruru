@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: JP_BodyEmote_CustomEmote_Stand_Hold_1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Stand_A
+    icon: {fileID: 2800000, guid: 574f1f33450a9964e9b51706cb68c9a5, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 33
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Stand_B
+    icon: {fileID: 2800000, guid: 574f1f33450a9964e9b51706cb68c9a5, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 34
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Stand_C
+    icon: {fileID: 2800000, guid: 574f1f33450a9964e9b51706cb68c9a5, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 35
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_A
+    icon: {fileID: 2800000, guid: 3c1133232b6baae4fb2f5a63be95af28, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 36
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_B
+    icon: {fileID: 2800000, guid: 3c1133232b6baae4fb2f5a63be95af28, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 37
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_C
+    icon: {fileID: 2800000, guid: 3c1133232b6baae4fb2f5a63be95af28, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 38
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_A
+    icon: {fileID: 2800000, guid: dd3da9de32409204a917653548fff55e, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 39
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_B
+    icon: {fileID: 2800000, guid: dd3da9de32409204a917653548fff55e, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 40
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
